@@ -1,0 +1,36 @@
+body{
+    background-color:powderblue;
+}
+ 
+hr{
+   
+    border-style:none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width:5px;
+    height: 0px;
+   
+    width: 5%;
+}
+img:hover{
+    background-color: gold;
+}
+h3{
+    color: rgb(111, 0, 255);
+}
+h2{
+    color:rgb(111, 0, 255);
+}
+h1{
+    color:rgb(111, 0, 255);
+}
+.abc{
+    background-color: rgb(251, 252, 252);
+}
+.kmbc{
+    background-color: rgb(252, 252, 252);
+}
+#motamuti{
+  color:chocolate  
+}
+/* id shudhu matro akta thakteh pareh same name a , kintu classes , onek gilo thak teh pareh same name a  */
